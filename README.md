@@ -1,2 +1,10 @@
-# SEP_TEST
-Wir testen den Umgang mit Github für unser Uni Projekt.
+# SEP
+Dies ist unser Uni Projekt, welches basierend auf Java Fx im Frontend und Java Springboot im Backend.
+Jeder war an Funktionen und Planung beteiligt.
+
+Authoren:
+Georg Orfali
+Nguyen Le Lam
+Serena Böker
+Natalie Schmidt
+Yafet Zehaie
